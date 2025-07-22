@@ -22,5 +22,8 @@ cd gui_version
 python student_gui.py
 
 
-****## Author****
-- Made by G.M.Hamza
+
+**👨‍💻 Author**
+Made with ❤️ by Noor
+
+
