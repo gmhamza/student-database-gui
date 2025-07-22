@@ -23,7 +23,7 @@ python student_gui.py
 
 
 
-**👨‍💻 Author**
+**##👨‍💻 Author**
 Made with ❤️ by Noor
 
 
