@@ -21,5 +21,6 @@ python student_cli.py
 cd gui_version
 python student_gui.py
 
-**## Author**
-Made by G.M.Hamza
+
+****## Author****
+- Made by G.M.Hamza
